@@ -1,14 +1,19 @@
 # AI-Projects 1- Website Summarizer
 
 User enters URL
+
        ↓
 Website content is fetched
+
        ↓
 Relevant text is extracted
+
        ↓
 Content is sent to AI model
+
        ↓
 Summary is generated
+
        ↓
 Summary displayed to user
 
